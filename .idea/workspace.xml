@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d45aeb6e-a70c-4392-8ce4-5504e4ff8ed6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-pattern.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/wurui/factorymethod/sample/简单工厂模式类图.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/wurui/factorymethod/工厂方法模式类图.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wurui/factory/ChicagoStyleCheesePizza.java" afterPath="$PROJECT_DIR$/src/main/java/com/wurui/factorymethod/ChicagoStyleCheesePizza.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wurui/factory/ChicagoStylePizzaStore.java" afterPath="$PROJECT_DIR$/src/main/java/com/wurui/factorymethod/ChicagoStylePizzaStore.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wurui/factory/Main.java" afterPath="$PROJECT_DIR$/src/main/java/com/wurui/factorymethod/Main.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wurui/factory/NYStyleCheesePizza.java" afterPath="$PROJECT_DIR$/src/main/java/com/wurui/factorymethod/NYStyleCheesePizza.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wurui/factory/NYStylePizzaStore.java" afterPath="$PROJECT_DIR$/src/main/java/com/wurui/factorymethod/NYStylePizzaStore.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wurui/factory/Pizza.java" afterPath="$PROJECT_DIR$/src/main/java/com/wurui/factorymethod/Pizza.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wurui/factory/PizzaStore.java" afterPath="$PROJECT_DIR$/src/main/java/com/wurui/factorymethod/PizzaStore.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wurui/factory/sample/CheesePizza.java" afterPath="$PROJECT_DIR$/src/main/java/com/wurui/factorymethod/sample/CheesePizza.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wurui/factory/sample/GreekPizza.java" afterPath="$PROJECT_DIR$/src/main/java/com/wurui/factorymethod/sample/GreekPizza.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wurui/factory/sample/Main.java" afterPath="$PROJECT_DIR$/src/main/java/com/wurui/factorymethod/sample/Main.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wurui/factory/sample/PizzaStore.java" afterPath="$PROJECT_DIR$/src/main/java/com/wurui/factorymethod/sample/PizzaStore.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wurui/factory/sample/SimplePizzaFactory.java" afterPath="$PROJECT_DIR$/src/main/java/com/wurui/factorymethod/sample/SimplePizzaFactory.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,7 +26,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wurui/readme.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -395,6 +419,23 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wurui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wurui" type="462c0819:PsiDirectoryNode" />
+              <item name="factorymethod" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -413,6 +454,12 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\import-study-workspace\design-pattern\src\main\java\com\wurui\factorymethod" />
+      <recent name="C:\import-study-workspace\design-pattern\src\main\java\com\wurui\factorymethod\sample" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -521,12 +568,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543372513002</updated>
-      <workItem from="1543372517037" duration="86000" />
+      <workItem from="1543372517037" duration="655000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86000" />
+    <option name="totallyTimeSpent" value="655000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
@@ -582,6 +629,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wurui/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
           <folding />
         </state>
       </provider>

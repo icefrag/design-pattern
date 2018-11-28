@@ -1,6 +1,6 @@
-package com.wurui.factory.sample;
+package com.wurui.factorymethod.sample;
 
-import com.wurui.factory.Pizza;
+import com.wurui.factorymethod.Pizza;
 
 public class SimplePizzaFactory {
 	

@@ -1,8 +1,8 @@
-package com.wurui.factory.sample;
+package com.wurui.factorymethod.sample;
 
-import com.wurui.factory.Pizza;
+import com.wurui.factorymethod.Pizza;
 
-public class GreekPizza extends Pizza {
+public class CheesePizza extends Pizza {
 
 	@Override
 	public void prepare() {

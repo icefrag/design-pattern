@@ -1,4 +1,4 @@
-package com.wurui.factory;
+package com.wurui.factorymethod;
 
 public class Main {
 	public static void main(String[] args) {

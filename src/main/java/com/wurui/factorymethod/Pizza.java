@@ -1,4 +1,4 @@
-package com.wurui.factory;
+package com.wurui.factorymethod;
 
 public abstract class Pizza {
 	public abstract void prepare();
